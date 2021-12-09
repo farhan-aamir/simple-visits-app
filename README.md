@@ -1,1 +1,1 @@
-# simple-visits-app
+# Simple visits app with docker compose.
